@@ -1,0 +1,22 @@
+<html>
+<head>
+<title> Pagina web de Martin Haro para TIC'S BAHÍA MARBELLA </title>
+</head>		
+<body bgcolor="#58a783" text="#3413ec">
+<h2><center><p><font color="dark blue" face="impact"> Bienvenidos a la web de Martín Haro </p>
+<h3><center><font color="red" face="impact"><p> dedicada a las TIC'S</p>
+
+<img src="instituto bahia web.jpg">
+<ul>
+<li><a href="paginawebtics.html">INICIO</a></li>
+<li><a href="paginawebtic.html">PLACA BASE</a></li>
+<li><a href="paginawebtic2.html">MICROPROCESADOR</a></li>
+</ul></font face="impact>
+<p> CPU [Procesador]
+GPU [Tarjeta gráfica] (si no hay GPU integrada)
+RAM [Memoria]
+Dispositivo de almacenamiento (SSD, NVME SSD, HDD)
+Refrigeración (CPU, chasis)
+PSU [Fuente de alimentación]
+</p>
+</html>
